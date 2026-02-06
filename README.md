@@ -31,7 +31,7 @@ The goal is to **gain insights into Netflix’s content catalog**, understand tr
 
 ## 📊 Example Visualizations
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YoussefKh117/assets/main/netflix-analysis-sample.png" width="600"/>
+  <img src="<img width="867" height="670" alt="Image" src="https://github.com/user-attachments/assets/6160674d-6e64-4c57-9ea7-2869c71c1ffc" />" width="600"/>
 </p>
 
 *Sample visualizations from the analysis.*
