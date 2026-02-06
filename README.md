@@ -4,9 +4,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="200" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF3C3C&center=true&vCenter=true&width=600&lines=Youssef+Khaled;Data+Analyst+%26+AI+Enthusiast" />
-</p>
 
 ## 📖 Project Overview
 This project explores and visualizes a **Netflix dataset** containing movie and TV show titles, genres, release years, duration, and ratings.  
